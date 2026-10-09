@@ -24,4 +24,4 @@ double resistance(double U, double I) {
 // Электрическая мощность: P = U * I
 double electricPower(double U, double I) {
     return U * I;
-}s
+}
