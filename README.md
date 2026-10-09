@@ -7,5 +7,4 @@
 | Гуляев С. С. | разработчик | 56 | gulyaev.h, gulyaev.cpp | 4–6 |
 | Янчесов С. О. | разработчик | 4 | yanchesov.h, yanchesov.cpp | 7–8 |
 ## Сборка и запуск
-g++ main.cpp vorozhtsov.cpp gulyaev.cpp yanchesov.cpp -o app
-./app
+g++ main.cpp vorozhtsov.cpp gulyaev.cpp yanchesov.cpp -o app && ./app
